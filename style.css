@@ -1093,7 +1093,7 @@ footer {
   /*Banner*/
   .banner {
     background-color: rgba(160, 185, 166, 0);
-    background-image: url("./media/main2.jpg");
+    background-image: url("./media/main2.webp");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1124,7 +1124,7 @@ footer {
   .about-me-block {
     padding-top: 5em;
     position: relative;
-    background-image: url("./media/about-me-wallpapper.png");
+    background-image: url("./media/about-me-wallpapper.webp");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
