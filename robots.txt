@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mathmuse.ru/sitemap.xml
